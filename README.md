@@ -36,9 +36,8 @@ Welcome to my GitHub Pages static website! This project was created as part of t
 - The importance of clean project structure and commit history
 
 ## 📸 Screenshots
-![Screenshot](https://github.com/user-attachments/assets/aea703df-17f1-4744-9ba0-e6c355ac19e7)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/4cc6375d-12f2-4c49-a76c-ea1390a20b66" />
 
-![Live Site Screenshot](screenshot.png)
 
 
 
